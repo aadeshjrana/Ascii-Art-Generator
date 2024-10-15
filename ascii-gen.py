@@ -18,7 +18,7 @@ def getChar(inputInt):
 
 text_file = open("Output.txt", "w")
 
-im = Image.open("cat.jpg")
+im = Image.open("cat.jpg") # image file name
 
 fnt = ImageFont.truetype('C:\\Windows\\Fonts\\lucon.ttf', 15)
 
